@@ -1,8 +1,0 @@
-Canvas size
-8.5
-10.2 (trim top)
-
-Then
-
-8.5 
-5
