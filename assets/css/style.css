@@ -773,46 +773,55 @@ What this query really means, is “If [device width] is greater than or equal t
   font-size: 3rem;
 }
 
+/* KDK 07/08/23 */
 .description-title {
   color: #fff;
   font-weight: 400;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
 }
-
 
 @media (max-width: 1200px) and (min-width: 1025px) {
   .home-title2 {
-    color: pink;
     color: #fff;
     font-size: 2.5rem;
     padding-top: 3.5rem;
+  }
+  .description-title {
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.5rem;
   }
 }
 
 @media (max-width: 1024px) and (min-width: 769px) {
   .home-title2 {
-    color: green;
     color: #fff;
     font-size: 2rem;
     padding-top: 4.5rem;
+  }
+  .description-title {
+    font-size: 2.0rem;
   }
 }
 
 @media (max-width: 768px) and (min-width: 481px) {
   .home-title2 {
-    color: blue;
     color: #fff;
     font-size: 1.75rem;
     padding-top: 2rem;
+  }
+  .description-title {
+    font-size: 1.75rem;
   }
 }
 
 @media (max-width: 480px) and (min-width: 320px) {
   .home-title2 {
     color: #fff;
-    color: yellow;
-    color: #fff;
     font-size: 1.5rem;
+  }
+  .description-title {
+    font-size: 1.25rem;
   }
 }
 
