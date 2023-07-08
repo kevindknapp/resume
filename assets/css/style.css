@@ -796,8 +796,7 @@ What this query really means, is “If [device width] is greater than or equal t
     padding-top: 3.5rem;
   }
   .description-title {
-    color: blue;
-    font-size: 1.5rem;
+    font-size: 2.0rem;
   }
 }
 
@@ -807,7 +806,6 @@ What this query really means, is “If [device width] is greater than or equal t
     padding-top: 4.5rem;
   }
   .description-title {
-    color: pink;
     font-size: 2.0rem;
   }
 }
@@ -818,7 +816,6 @@ What this query really means, is “If [device width] is greater than or equal t
     padding-top: 2rem;
   }
   .description-title {
-    color: red;
     font-size: 1.75rem;
   }
 }
@@ -828,7 +825,6 @@ What this query really means, is “If [device width] is greater than or equal t
     font-size: 1.5rem;
   }
   .description-title {
-    color:yellow;
     font-size: 1.25rem;
   }
 }
