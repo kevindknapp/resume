@@ -773,6 +773,12 @@ What this query really means, is “If [device width] is greater than or equal t
   font-size: 3rem;
 }
 
+.description-title {
+  color: #fff;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
 
 @media (max-width: 1200px) and (min-width: 1025px) {
   .home-title2 {
